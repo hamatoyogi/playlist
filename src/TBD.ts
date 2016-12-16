@@ -19,12 +19,12 @@ class TBD extends LetItBe {
 
   public chorusA: string = `
     TBD, TBD, TBD, yeah TBD.
-    No one will remember, TBD.
+    I will fix it late, TBD.
     `;
 
   public partB: string = `           
     And in my hour of darkness
-    When the codebase looks like spaghetti,
+    Where Spagehetti code is all I see,
     Write these words of wisdom - TBD.
                      
     And when the broken-syntax methods
@@ -41,9 +41,9 @@ class TBD extends LetItBe {
   `;
 
   public partC: string = `
-    my calender is filled with meetings
+    My calender is filled with meetings
     all of them including me
-    I look at the description: TBD   
+    I look at their description: TBD   
   `
 
   public chorusC: string = `
