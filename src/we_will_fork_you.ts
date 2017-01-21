@@ -27,10 +27,16 @@ class WeWillForkYou extends WeWillRockYou {
 
         Your code is a mess,
         a big disgrace,
-        Somebody better open a pull request
+        using magic numbers all over the place
      `;
 
     public partC: string = `
+        Buddy you're an old man poor man 
+        Pleadin' with your eyes gonna' make you release some day 
+
+        You got typos in your class
+        You big disgrace 
+        Somebody better open a pull request
     `;
 
 }
