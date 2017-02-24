@@ -1,5 +1,4 @@
 class AllAboutThatBass {
-
   public artist: string = "Meghan Trainor";
   public link  : string = "https://www.youtube.com/watch?v=7PCkvCPvDXk";
 }
@@ -13,7 +12,7 @@ class AllAboutThatBash extends AllAboutThatBass {
     ${CHORUS_LINE}
     ${CHORUS_LINE}
     ${CHORUS_LINE_SHORT} bash bash
-  `
+  `;
 
   public partA: string = `
     Yeah, it's pretty clear, I ain't got mouse at all

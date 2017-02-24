@@ -1,8 +1,6 @@
 abstract class Unintended {
-
   public artist: string = "Muse";
   public link  : string = "https://www.youtube.com/watch?v=i9LOFXwPwC4";
-
 }
 
 class Unindented extends Unintended {
@@ -25,4 +23,7 @@ class Unindented extends Unintended {
 
 }
 
-new Unindented();
+const song = new Unindented();
+
+song.partA;
+song.chorus;
