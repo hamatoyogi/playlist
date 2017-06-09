@@ -19,12 +19,12 @@ class TBD extends LetItBe {
 
   public chorusA: string = `
     TBD, TBD, TBD, yeah TBD.
-    I will fix it late, TBD.
+    I will fix it later, TBD.
     `;
 
   public partB: string = `           
     And in my hour of darkness
-    Where Spagehetti code is all I see,
+    Where Spaghetti code is all I see,
     Write these words of wisdom - TBD.
                      
     And when the broken-syntax methods
