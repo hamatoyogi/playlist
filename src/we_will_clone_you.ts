@@ -4,7 +4,7 @@ abstract class WeWillRockYou {
 
 }
 
-class WeWillForkYou extends WeWillRockYou {
+class WeWillCloneYou extends WeWillRockYou {
 
     public partA: string = `
         Buddy you're a boy make a big noise
@@ -17,8 +17,8 @@ class WeWillForkYou extends WeWillRockYou {
   `;
 
     public chorus: string = `
-        We will we will fork you
-        We will we will fork you
+        We will we will clone you
+        We will we will clone you
   `;
 
     public partB: string = `
@@ -41,4 +41,4 @@ class WeWillForkYou extends WeWillRockYou {
 
 }
 
-new WeWillForkYou();
+new WeWillConeYou();
